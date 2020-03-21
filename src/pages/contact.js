@@ -9,5 +9,13 @@ export default () => (
         <Header headerText="Contact" />
         <Paragraph paragraphText="Send us a message" />        
     </div>
+    <div>
+    <form>
+    <label>/<label>
+    <label></label>
+    <label></label>
+    <button></button>
+    </form>
+    </div>
 
     )
